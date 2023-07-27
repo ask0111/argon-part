@@ -1,0 +1,13 @@
+body{
+  background-color: #f0f0f0;
+}
+.App{
+  background-image: 
+            linear-gradient(rgba(58, 57, 57, 0.7), rgba(58, 58, 58, 0.8)),
+            url("https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8fA%3D%3D&w=1000&q=80");
+  background-repeat: no-repeat;
+  background-size: cover;
+  z-index: -1;
+  height: 60vh;
+  color: white;
+}
